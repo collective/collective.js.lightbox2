@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <object name="portal_css">
   <stylesheet
-      id="lightbox2-css/lightbox.css"
+      id="++resource++lightbox2-css/lightbox.css"
       enabled="1"
       expression=""
       cookable="True"
