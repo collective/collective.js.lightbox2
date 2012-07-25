@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <object name="portal_javascripts" meta_type="JavaScripts Registry">
+  <javascript id="++resource++lightbox2-js/jquery-backports.js"/>
   <javascript id="++resource++lightbox2-js/lightbox.js"/>
 </object>
