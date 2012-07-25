@@ -58,7 +58,7 @@
 						newEvent.currentTarget = matches.get(0);
 						return origFn(newEvent);
 					} else {
-						return false;
+						return true;
 					}
 				};
 				
